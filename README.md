@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Output
 
-<Img Src='fetchapi.png' />
+<Img Src='fetchapi.PNG' />
